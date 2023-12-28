@@ -12,7 +12,7 @@ import cors from "cors"
 const app = express();
 dotenv.config();
 
-const port =3006;
+const port =3007;
 
 
 app.use(bodyParser.json())
